@@ -1,6 +1,4 @@
-Here is a **GitHub-ready project description + proper running steps**. You can copy this into your `README.md` file.
 
-````markdown
 # DiaLLM-BD: LLM-Assisted Type-2 Diabetes Prediction System
 
 DiaLLM-BD is a research-based prototype that combines machine learning and an LLM-style chatbot interface for Type-2 diabetes risk prediction and patient education. The system uses a tabular clinical diabetes dataset to train multiple machine learning models and selects the best-performing model for prediction. After prediction, the application generates a patient-friendly explanation and provides a diabetes education chatbot for general awareness.
