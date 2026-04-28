@@ -1,0 +1,17 @@
+{
+    "dataset_file": "diabetes_bangladesh.csv",
+    "target_column": "family_diabetes",
+    "best_model": "Gradient Boosting",
+    "best_threshold": 0.1,
+    "train_size": 3805,
+    "validation_size": 816,
+    "test_size": 816,
+    "test_metrics": {
+        "Accuracy": 0.9926470588235294,
+        "Precision": 0.8529411764705882,
+        "Recall": 0.9666666666666667,
+        "Specificity": 0.9936386768447837,
+        "F1_Score": 0.90625,
+        "ROC_AUC": 0.9692111959287533
+    }
+}
